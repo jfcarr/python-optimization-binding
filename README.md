@@ -1,2 +1,1 @@
-# python-optimization-binding
-Python Optimization and Language Binding
+# Python Optimization and Language Binding
